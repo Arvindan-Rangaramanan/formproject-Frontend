@@ -1,0 +1,73 @@
+html {
+    background-color: rgb(0, 0, 0);
+}
+
+/* LOGO styling */
+
+img {
+ 
+}
+
+div .body {
+    height: auto;
+    width: auto ;
+    margin: 0;
+    padding: 0;
+   
+}
+
+div .brand-logo {
+    padding: 1rem;
+}
+
+div .brand-logo .logo-img { 
+    height: 3rem;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+/*TITLE AREA*/
+
+div .title-area {
+    padding: 5rem;
+    text-align: center;
+    margin-top: rem;
+    font-family: Work Sans;
+}
+
+div .title-area h2 {
+    color: aliceblue;
+    font-size: 5rem;
+}
+
+div .title-area h1 {
+    color: aliceblue;
+    font-size: 9rem;
+    margin-top: -1rem;
+}
+
+/* BUTTON */
+
+.button-area {
+    padding: 3rem;
+    text-align: center;
+    margin-top: -5rem;
+}
+
+button {
+    text-decoration: none !important;
+    font-family: Scheherazade New;
+    font-size: 2rem;
+    padding: 1rem 4rem;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    border-radius: .08rem;
+    border-width: .10rem;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,14 @@
+.container {
+    padding: 5rem;
+    height: 768px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1 {
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+}
